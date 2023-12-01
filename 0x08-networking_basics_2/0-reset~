@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# change IP addresses in hosts file
+echo "127.0.0.1	      hostname" > /etc/hosts
+echo "157.240.241.35	      facebook.com" >> /etc/hosts
