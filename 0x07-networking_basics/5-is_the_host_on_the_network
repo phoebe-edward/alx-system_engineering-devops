@@ -1,4 +1,4 @@
-#/usr/bin/env bash
+#!/usr/bin/env bash
 # pings a specified IP address passed as an argument
 if [ -z "$1" ];
 then
